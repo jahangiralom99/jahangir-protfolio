@@ -88,7 +88,7 @@ main {
   text-align: center;
   font-size: 35px;
   font-weight: 700;
-  margin-bottom: 30px;
+  margin-bottom: 50px;
 }
 .section-description {
   text-align: center;
@@ -112,4 +112,70 @@ main {
   color: #474747;
   font-size: 18px;
   margin-bottom: 130px;
+}
+/* what i-do section */
+.what-i-do{
+    margin-bottom: 130px;
+}
+/* ---------------------------------- */
+/* skils-container styles */
+.skils-container{
+    margin: 24px;
+    margin-top: 50px;
+    display: flex;
+    gap: 24px;
+}
+.skills{
+    background: #FFFFFF;
+    box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+    border-radius: 5px;
+    margin-left: 10px;
+    padding: 30px;
+}
+.skill-title{
+    font-size: 20px;
+    font-weight: 700;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.skill-description{
+    padding: 30;
+    color: #757575;
+}
+/* Resume styles */
+.resum-contant{
+    display: flex;
+    gap: 25px;
+}
+.resume-title{
+    font-size: 30px;
+    font-weight: 700;
+    color: #474747;
+    margin-bottom: 30px;
+}
+.resum-itrm{
+
+}
+.title{
+    margin-bottom: 10px;
+    font-size: 23px;
+    font-weight: 700;
+    color: #474747;
+}
+.sub-title{
+    margin-bottom: 20px;
+    font-size: 20px;
+    font-weight: 600;
+    color: #757575;
+}
+.Description{
+    margin-bottom: 30px;
+    color: #757575; 
+}
+
+/* btn-resume */
+.btn-resume{
+    margin-top: 50px;
+    text-align: center;
 }
